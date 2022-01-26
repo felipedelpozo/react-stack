@@ -1,0 +1,17 @@
+{
+    "printWidth": 80,
+    "tabWidth": 2,
+    "trailingComma": "all",
+    "singleQuote": false,
+    "semi": true,
+    "importOrder": [
+        "react|react-dom",
+        "<THIRD_PARTY_MODULES>",
+        "^@app/(.*)$",
+        ".+?\\.svg",
+        ".+?\\.css",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
